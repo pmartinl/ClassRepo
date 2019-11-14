@@ -1,0 +1,1391 @@
+﻿Log file open, 11/13/19 16:08:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ThirdPerson
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.404939
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=Zefyr- -epicuserid=d5417df21912407a9a8cbf9e55c3dd89 -epiclocale=es-ES
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.13-15.08.34:366][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.13-15.08.34:366][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.13-15.08.34:367][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Config/Windows/Engine.ini]
+[2019.11.13-15.08.34:367][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.13-15.08.34:367][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Config/Windows/Engine.ini]
+[2019.11.13-15.08.34:367][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Config/Windows/Engine.ini]
+[2019.11.13-15.08.34:367][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.13-15.08.34:367][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.13-15.08.34:367][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.13-15.08.34:367][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.13-15.08.34:367][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.13-15.08.34:367][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.13-15.08.34:367][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.13-15.08.34:367][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.13-15.08.34:367][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.13-15.08.34:367][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.13-15.08.34:367][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.13-15.08.34:367][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.13-15.08.34:367][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.13-15.08.34:367][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Config/Windows/Engine.ini]
+[2019.11.13-15.08.34:368][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.13-15.08.34:368][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.13-15.08.34:368][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.13-15.08.34:368][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.13-15.08.34:368][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.13-15.08.34:368][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.13-15.08.34:368][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.13-15.08.34:368][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.13-15.08.34:368][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.13-15.08.34:368][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.13-15.08.34:368][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.13-15.08.34:368][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.13-15.08.34:368][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.13-15.08.34:368][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Config/Windows/Engine.ini]
+[2019.11.13-15.08.34:368][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Config/Windows/Engine.ini]
+[2019.11.13-15.08.34:385][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-15.08.34:385][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.13-15.08.34:385][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.13-15.08.34:385][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-15.08.34:385][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.13-15.08.34:385][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-15.08.34:385][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.13-15.08.34:385][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.13-15.08.34:385][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.13-15.08.34:385][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.13-15.08.34:385][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.13-15.08.34:385][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.13-15.08.34:385][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.13-15.08.34:385][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.13-15.08.34:385][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.13-15.08.34:386][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.13-15.08.34:387][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.13-15.08.34:387][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.13-15.08.34:387][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.13-15.08.34:403][  0]LogHAL: Display: Platform has ~ 16 GB [17047015424 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.13-15.08.34:403][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.13-15.08.34:403][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.13-15.08.34:403][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.13-15.08.34:404][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Config/Windows/Engine.ini]
+[2019.11.13-15.08.34:404][  0]LogInit: Computer: LAPTOP-NBBDN9Q2
+[2019.11.13-15.08.34:404][  0]LogInit: User: Pauloski
+[2019.11.13-15.08.34:404][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.11.13-15.08.34:404][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.13-15.08.34:404][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.11.13-15.08.34:404][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.13-15.08.34:404][  0]LogMemory: Process Physical Memory: 98.53 MB used, 98.53 MB peak
+[2019.11.13-15.08.34:405][  0]LogMemory: Process Virtual Memory: 89.75 MB used, 89.75 MB peak
+[2019.11.13-15.08.34:405][  0]LogMemory: Physical Memory: 11137.80 MB used,  5119.50 MB free, 16257.30 MB total
+[2019.11.13-15.08.34:405][  0]LogMemory: Virtual Memory: 4660.46 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.11.13-15.08.34:427][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.11.13-15.08.34:427][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.11.13-15.08.34:578][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.13-15.08.34:625][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.13-15.08.34:625][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.13-15.08.34:825][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.13-15.08.34:825][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.13-15.08.34:892][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.11.13-15.08.34:892][  0]LogD3D11RHI:       6052/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.11.13-15.08.34:942][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.11.13-15.08.34:942][  0]LogD3D11RHI:       128/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.11.13-15.08.34:944][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.13-15.08.34:944][  0]LogD3D11RHI:       0/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.13-15.08.34:944][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.13-15.08.34:976][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.13-15.08.34:976][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.13-15.08.34:976][  0]LogWindows: EnumDisplayDevices:
+[2019.11.13-15.08.34:976][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.11.13-15.08.34:976][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.11.13-15.08.34:977][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.11.13-15.08.34:977][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:1)
+[2019.11.13-15.08.34:977][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.11.13-15.08.34:977][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.11.13-15.08.34:978][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.11.13-15.08.34:978][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.11.13-15.08.34:978][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.11.13-15.08.34:978][  0]LogD3D11RHI:   Driver Version: 417.35 (internal:25.21.14.1735, unified:417.35)
+[2019.11.13-15.08.34:978][  0]LogD3D11RHI:      Driver Date: 12-11-2018
+[2019.11.13-15.08.34:978][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.11.13-15.08.35:017][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.13-15.08.35:020][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.13-15.08.35:021][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.13-15.08.35:021][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.13-15.08.35:034][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.11.13-15.08.35:471][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.13-15.08.35:483][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.13-15.08.35:496][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.13-15.08.35:508][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.13-15.08.35:521][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.13-15.08.35:534][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.13-15.08.35:547][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.13-15.08.35:559][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.13-15.08.35:565][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.13-15.08.35:642][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.13-15.08.35:642][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.13-15.08.35:642][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.13-15.08.35:642][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.13-15.08.35:643][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.13-15.08.35:643][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.13-15.08.35:643][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.13-15.08.35:643][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.13-15.08.35:643][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.13-15.08.35:643][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.13-15.08.35:643][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.13-15.08.35:643][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.13-15.08.35:643][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.13-15.08.35:643][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.13-15.08.35:643][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.13-15.08.35:643][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.13-15.08.35:643][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.13-15.08.35:643][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.13-15.08.35:645][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.13-15.08.35:694][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.13-15.08.35:694][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.13-15.08.35:717][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.13-15.08.35:717][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.13-15.08.35:728][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.13-15.08.35:739][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.13-15.08.35:750][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.13-15.08.35:763][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.13-15.08.35:804][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.13-15.08.35:804][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.13-15.08.35:804][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.13-15.08.35:812][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.13-15.08.35:862][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Intermediate/Shaders/WorkingDirectory/13636/).
+[2019.11.13-15.08.35:862][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mi_ic/AppData/Local/Temp/UnrealShaderWorkingDir/37E1D3BB45ABC074ADC16C809271733E/'.
+[2019.11.13-15.08.35:864][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.13-15.08.35:864][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.13-15.08.35:864][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.13-15.08.36:361][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.13-15.08.36:404][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Mi_ic/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.13-15.08.36:404][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mi_ic/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.13-15.08.36:404][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.13-15.08.36:404][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.13-15.08.36:404][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.13-15.08.36:404][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.13-15.08.36:416][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.13-15.08.36:416][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.13-15.08.36:416][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.13-15.08.36:428][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mi_ic/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.13-15.08.36:428][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.13-15.08.36:428][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.13-15.08.36:447][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.13-15.08.36:448][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.13-15.08.36:449][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.13-15.08.36:530][  0]LogAssetRegistry: FAssetRegistry took 0.0331 seconds to start up
+[2019.11.13-15.08.36:866][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.13-15.08.36:991][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.13-15.08.36:991][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.13-15.08.36:991][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.13-15.08.36:991][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.13-15.08.36:991][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.13-15.08.37:005][  0]LogNetVersion: ThirdPerson 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2194164123)
+[2019.11.13-15.08.37:397][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.048273 seconds
+[2019.11.13-15.08.37:404][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.11.13-15.08.37:404][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.11.13-15.08.37:404][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.13-15.08.38:461][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.13-15.08.38:474][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.13-15.08.38:582][  0]SourceControl: Source control is disabled
+[2019.11.13-15.08.38:582][  0]SourceControl: Source control is disabled
+[2019.11.13-15.08.38:584][  0]SourceControl: Source control is disabled
+[2019.11.13-15.08.38:585][  0]SourceControl: Source control is disabled
+[2019.11.13-15.08.38:667][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.13-15.08.38:760][  0]LogOcInput: OculusInput pre-init called
+[2019.11.13-15.08.39:408][  0]LogEngine: Initializing Engine...
+[2019.11.13-15.08.39:409][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.13-15.08.39:410][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.13-15.08.39:605][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.13-15.08.39:617][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.13-15.08.39:698][  0]LogInit: XAudio2 using 'Altavoces (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.13-15.08.39:722][  0]LogInit: FAudioDevice initialized.
+[2019.11.13-15.08.39:722][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.13-15.08.39:843][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB C:/Users/Mi_ic/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.13-15.08.39:853][  0]LogInit: Texture streaming: Enabled
+[2019.11.13-15.08.39:871][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.13-15.08.39:898][  0]LogInit: Transaction tracking system initialized
+[2019.11.13-15.08.39:924][  0]BlueprintLog: New page: Editor Load
+[2019.11.13-15.08.40:002][  0]LocalizationService: Localization service is disabled
+[2019.11.13-15.08.40:292][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Content/' took 0.02s
+[2019.11.13-15.08.40:292][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.13-15.08.40:292][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.13-15.08.40:526][  0]SourceControl: Source control is disabled
+[2019.11.13-15.08.40:526][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.13-15.08.40:527][  0]LightingResults: New page: Lighting Build
+[2019.11.13-15.08.40:529][  0]MapCheck: New page: Map Check
+[2019.11.13-15.08.40:529][  0]LightingResults: New page: Lighting Build
+[2019.11.13-15.08.40:555][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.11.13-15.08.41:109][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.13-15.08.41:120][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.13-15.08.41:148][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.11.13-15.08.41:148][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.13-15.08.41:148][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.174ms to complete.
+[2019.11.13-15.08.41:148][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.622
+[2019.11.13-15.08.41:295][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-15.08.41:302][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-15.08.41:309][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-15.08.41:315][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-15.08.41:320][  0]LogCollectionManager: Loaded 0 collections in 0.001560 seconds
+[2019.11.13-15.08.41:364][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Collections/' took 0.01s
+[2019.11.13-15.08.41:364][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Content/Developers/Pauloski/Collections/' took 0.01s
+[2019.11.13-15.08.41:364][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Content/Collections/' took 0.01s
+[2019.11.13-15.08.41:364][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.11.13-15.08.41:373][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2732 classes and 659 folders.
+[2019.11.13-15.08.41:380][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.13-15.08.41:381][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:382][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:382][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:383][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:383][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:384][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:384][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:385][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:385][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:386][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:386][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:387][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:387][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:387][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:388][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:388][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:389][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:389][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:390][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:391][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:391][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:392][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:393][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:393][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:393][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:394][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.13-15.08.41:429][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.13-15.08.41:434][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.11.13-15.08.41:504][  0]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.13-15.08.41:506][  0]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.13-15.08.41:510][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.13-15.08.41:565][  0]LogRenderer: Reallocating scene render targets to support 692x388 Format 10 NumSamples 1 (Frame:1).
+[2019.11.13-15.08.41:775][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.13-15.08.41:775][  0]LogLoad: (Engine Initialization) Total time: 9.58 seconds
+[2019.11.13-15.08.41:775][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.13-15.08.41:821][  0]LogAssetRegistry: Asset discovery search completed in 5.3146 seconds
+[2019.11.13-15.08.41:823][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.11.13-15.08.41:823][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2019.11.13-15.08.41:824][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.13-15.08.41:852][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.13-15.08.43:633][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.08.48:402][388]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.13-15.08.48:474][388]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M'
+[2019.11.13-15.08.48:474][388]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M' while loading NULL.
+[2019.11.13-15.08.48:474][388]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M'
+[2019.11.13-15.08.48:474][388]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M' while loading NULL.
+[2019.11.13-15.08.48:503][388]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Materials/Instances/MI_Rock_17'
+[2019.11.13-15.08.48:503][388]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Materials/Instances/MI_Rock_17' while loading NULL.
+[2019.11.13-15.08.48:503][388]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Materials/Instances/MI_Rock_17'
+[2019.11.13-15.08.48:503][388]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Materials/Instances/MI_Rock_17' while loading NULL.
+[2019.11.13-15.08.48:523][388]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Materials/Instances/MI_Rock_17'
+[2019.11.13-15.08.48:523][388]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Materials/Instances/MI_Rock_17.MI_Rock_17 Referenced by SM_Rock_17
+[2019.11.13-15.08.48:524][388]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Materials/Instances/MI_Rock_17' while loading NULL.
+[2019.11.13-15.08.48:565][388]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M'
+[2019.11.13-15.08.48:565][388]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M.T_DefaultMask_512_M Referenced by MaterialExpressionTextureSampleParameter2D_24
+[2019.11.13-15.08.48:565][388]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M' while loading NULL.
+[2019.11.13-15.08.48:566][388]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M'
+[2019.11.13-15.08.48:566][388]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M.T_DefaultMask_512_M Referenced by MaterialExpressionTextureSampleParameter2D_25
+[2019.11.13-15.08.48:566][388]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M' while loading NULL.
+[2019.11.13-15.08.48:567][388]LogLinker: Warning: Can't find file '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M'
+[2019.11.13-15.08.48:567][388]LoadErrors: Failed to load /Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M.T_DefaultMask_512_M Referenced by MaterialExpressionTextureSampleParameter2D_26
+[2019.11.13-15.08.48:567][388]LogLinker: Warning: Can't find file for asset '/Game/Flowers_and_Plants_Nature_Pack/Textures/T_DefaultMask_512_M' while loading NULL.
+[2019.11.13-15.08.48:665][388]LogMaterial: Display: Missing cached shader map for material M_PlantsMasterMaterial, compiling. 
+[2019.11.13-15.08.48:672][388]LogMaterial: Warning: C:\Users\Mi_ic\OneDrive\Escritorio\ClassRepo\Content\Ejercicios\Material\MI_DactylisBB_02.uasset: Failed to compile Material Instance with Base M_PlantsMasterMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.13-15.08.48:672][388]LogMaterial: 	Function MF_ColorCorrectionFlowers: (Node TextureSampleParameter2D) (ENG) Mask. For the correct work of textures of this type, it is recommended to set the "Compression Settings" parameter in the texture properties as "Mask (no sRGB)". (RUS) Маска. Для корретной работы текстур данного типа рекомендуется в свойствах текстуры установить параметр "Compression Settings" как "Mask (no sRGB)".> Requires Texture2D
+[2019.11.13-15.08.48:724][388]LogStaticMesh: Building static mesh SM_Rock_13...
+[2019.11.13-15.08.48:774][388]LogStaticMesh: Built static mesh [0.05s] /Game/Ejercicios/Mesh/Rocks/SM_Rock_13.SM_Rock_13
+[2019.11.13-15.08.48:996][388]LogMaterial: Display: Missing cached shader map for material M_PlantsMasterMaterial, compiling. 
+[2019.11.13-15.08.49:001][388]LogMaterial: Warning: C:\Users\Mi_ic\OneDrive\Escritorio\ClassRepo\Content\Ejercicios\Material\MI_Dactylis_02.uasset: Failed to compile Material Instance with Base M_PlantsMasterMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.13-15.08.49:001][388]LogMaterial: 	Function MF_ColorCorrectionFlowers: (Node TextureSampleParameter2D) (ENG) Mask. For the correct work of textures of this type, it is recommended to set the "Compression Settings" parameter in the texture properties as "Mask (no sRGB)". (RUS) Маска. Для корретной работы текстур данного типа рекомендуется в свойствах текстуры установить параметр "Compression Settings" как "Mask (no sRGB)".> Requires Texture2D
+[2019.11.13-15.08.49:002][388]LogAIModule: Creating AISystem for world PostProcess
+[2019.11.13-15.08.49:022][388]LogMaterial: Warning: Material /Game/Ejercicios/Mesh/EssentialTreeKit/BaseMaterial/Tree_Bark.Tree_Bark needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.11.13-15.08.49:027][388]LogMaterial: Display: Missing cached shader map for material Tree_Bark, compiling. 
+[2019.11.13-15.08.49:205][388]MapCheck: Warning: Tree_Bark Material /Game/Ejercicios/Mesh/EssentialTreeKit/BaseMaterial/Tree_Bark.Tree_Bark was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.11.13-15.08.49:219][388]LogMaterial: Warning: Material /Game/Ejercicios/Mesh/EssentialTreeKit/BaseMaterial/Tree_Leaf.Tree_Leaf needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.11.13-15.08.49:222][388]LogMaterial: Display: Missing cached shader map for material Tree_Leaf, compiling. 
+[2019.11.13-15.08.49:280][388]MapCheck: Warning: Tree_Leaf Material /Game/Ejercicios/Mesh/EssentialTreeKit/BaseMaterial/Tree_Leaf.Tree_Leaf was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.11.13-15.08.49:293][388]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/PostProcess.PostProcess
+[2019.11.13-15.08.49:321][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.11.13-15.08.49:323][388]Cmd: MAP LOAD FILE="../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Content/Maps/PostProcess.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.13-15.08.49:323][388]LightingResults: New page: Lighting Build
+[2019.11.13-15.08.49:324][388]LoadErrors: New page: Loading map: PostProcess.umap
+[2019.11.13-15.08.49:325][388]MapCheck: New page: Map Check
+[2019.11.13-15.08.49:325][388]LightingResults: New page: Lighting Build
+[2019.11.13-15.08.49:356][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.11.13-15.08.50:224][388]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.13-15.08.50:255][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.11.13-15.08.50:313][388]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.13-15.08.50:314][388]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.267ms to complete.
+[2019.11.13-15.08.50:314][388]LogFileHelpers: Loading map 'PostProcess' took 0.993
+[2019.11.13-15.08.50:463][391]LogRenderer: Warning: Gaussian DOF algorithm is deprecated and will be removed from deferred shading renderer. Consider using the Circle DOF method in post process settings.
+[2019.11.13-15.08.52:127][468]LogSlate: Window 'Message Log' being destroyed
+[2019.11.13-15.08.52:135][468]LogSlate: Window 'Message Log' being destroyed
+[2019.11.13-15.09.04:018][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-15.09.05:064][138]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-15.09.06:797][138]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.11.13-15.09.23:651][ 91]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.13-15.09.23:659][ 91]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.13-15.09.30:917][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.15.06:393][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.15.18:423][526]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.13-15.15.39:522][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.15.55:243][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.16.51:603][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.17.02:586][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.17.10:871][285]LogTexture: Display: Building textures: bark_DISP (BGRA8, 1365X2048)
+[2019.11.13-15.17.14:635][491]LogTexture: Display: Building textures: leaf (AutoDXT, 1688X1024)
+[2019.11.13-15.17.19:622][779]LogTexture: Display: Building textures: leaf_NRM (BC5, 1688X1024)
+[2019.11.13-15.17.45:600][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.17.51:053][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.18.10:641][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.19.19:983][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.11.13-15.19.20:331][374]LogSavePackage: Moving '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/PostProcess_Auto157F9C6FB49ABD8A6EC757A887302EE2E.tmp' to '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Autosaves/Game/Maps/PostProcess_Auto1.umap'
+[2019.11.13-15.19.20:342][374]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/PostProcess' took 0.383
+[2019.11.13-15.19.20:342][374]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.383
+[2019.11.13-15.23.53:293][672]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-15.23.55:804][822]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.13-15.24.02:398][215]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.13-15.24.06:340][448]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.13-15.24.09:489][635]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.13-15.24.12:171][794]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.13-15.24.14:935][959]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.13-15.24.20:873][313]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.13-15.24.25:660][598]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.13-15.24.28:066][741]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.13-15.24.31:731][960]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.13-15.24.35:540][186]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.13-15.24.41:236][525]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.13-15.24.46:152][817]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.13-15.25.08:833][405]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.13-15.25.11:371][555]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.13-15.25.23:246][243]LogTexture: Display: Building textures: bark_OCC (BGRA8, 1365X2048)
+[2019.11.13-15.25.52:468][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.29.20:605][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.11.13-15.29.20:938][577]LogSavePackage: Moving '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/PostProcess_Auto2FF3B670048507AD6FFE4E482D0C0F102.tmp' to '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Autosaves/Game/Maps/PostProcess_Auto2.umap'
+[2019.11.13-15.29.20:942][577]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/PostProcess' took 0.361
+[2019.11.13-15.29.20:942][577]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.361
+[2019.11.13-15.30.11:412][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.30.14:224][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.32.03:654][830]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.11.13-15.32.21:237][819]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.13-15.32.21:240][819]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.13-15.39.21:161][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.11.13-15.39.21:483][239]LogSavePackage: Moving '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/PostProcess_Auto32D3A12AA44AD5787B550F094CC6F57AB.tmp' to '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Autosaves/Game/Maps/PostProcess_Auto3.umap'
+[2019.11.13-15.39.21:487][239]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/PostProcess' took 0.350
+[2019.11.13-15.39.21:487][239]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.350
+[2019.11.13-15.47.55:411][927]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-15.47.56:283][979]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-15.47.56:508][992]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-15.47.56:928][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-15.47.57:937][ 77]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.13-15.48.01:567][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.48.20:576][433]Cmd: SELECT NONE
+[2019.11.13-15.48.23:158][584]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.13-15.48.23:175][584]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PostProcess.PostProcess:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess' with GeneratedClass '/Game/Maps/PostProcess.PostProcess_C' with ClassGeneratedBy '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess'
+[2019.11.13-15.48.23:175][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.13-15.48.23:175][584]PIE: New page: PIE session: PostProcess (Nov 13, 2019, 5:48:23 PM)
+[2019.11.13-15.48.23:187][584]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PostProcess
+[2019.11.13-15.48.23:224][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035950s)
+[2019.11.13-15.48.23:224][584]LogAIModule: Creating AISystem for world PostProcess
+[2019.11.13-15.48.23:224][584]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2019.11.13-15.48.23:225][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PostProcess.PostProcess to /Game/Maps/UEDPIE_0_PostProcess.PostProcess (0.037089s)
+[2019.11.13-15.48.23:250][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.11.13-15.48.23:264][584]LogInit: XAudio2 using 'Altavoces (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.13-15.48.23:282][584]LogInit: FAudioDevice initialized.
+[2019.11.13-15.48.23:326][584]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.13-15.48.23:330][584]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PostProcess.PostProcess up for play (max tick rate 60) at 2019.11.13-16.48.23
+[2019.11.13-15.48.23:331][584]LogWorld: Bringing up level for play took: 0.002803
+[2019.11.13-15.48.23:349][584]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.11.13-15.48.23:351][584]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PostProcess -0.562
+[2019.11.13-15.48.23:352][584]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PostProcess.PostProcess:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess' with GeneratedClass '/Game/Maps/PostProcess.PostProcess_C' with ClassGeneratedBy '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess'
+[2019.11.13-15.48.25:245][696]Cmd: LevelEditor.ToggleImmersive
+[2019.11.13-15.48.25:391][697]LogRenderer: Reallocating scene render targets to support 1012x552 Format 10 NumSamples 1 (Frame:114).
+[2019.11.13-15.48.25:445][698]LogRenderer: Reallocating scene render targets to support 1540x828 Format 10 NumSamples 1 (Frame:116).
+[2019.11.13-15.48.25:450][698]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-15.48.28:197][862]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PostProcess.PostProcess:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess' with GeneratedClass '/Game/Maps/PostProcess.PostProcess_C' with ClassGeneratedBy '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess'
+[2019.11.13-15.48.28:197][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-15.48.28:264][862]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.13-15.48.28:264][862]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PostProcess.PostProcess:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess' with GeneratedClass '/Game/Maps/PostProcess.PostProcess_C' with ClassGeneratedBy '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess'
+[2019.11.13-15.48.28:294][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-15.48.28:297][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.11.13-15.48.28:321][863]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.11.13-15.48.30:862][  8]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.11.13-15.48.32:569][103]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-15.48.35:005][235]Cmd: SELECT NONE
+[2019.11.13-15.48.40:458][547]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-15.48.40:925][575]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.11.13-15.48.43:941][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.48.46:637][907]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.11.13-15.48.46:659][908]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.11.13-15.48.46:660][908]LogMaterial: Warning: /Engine/Transient.Material_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.13-15.48.46:660][908]LogMaterial: 	(Node TextureSampleParameter2D) (ENG) Mask. For the correct work of textures of this type, it is recommended to set the "Compression Settings" parameter in the texture properties as "Mask (no sRGB)". (RUS) Маска. Для корретной работы текстур данного типа рекомендуется в свойствах текстуры установить параметр "Compression Settings" как "Mask (no sRGB)".> Requires Texture2D
+[2019.11.13-15.48.49:354][ 67]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Ejercicios/Material/MI_Dactylis_02.MI_Dactylis_02
+[2019.11.13-15.48.54:978][349]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Ejercicios/Material/MI_01PlantsMasterInstance.MI_01PlantsMasterInstance
+[2019.11.13-15.48.57:404][479]LogAssetEditorManager: Opening Asset editor for Material /Game/Ejercicios/Material/M_PlantsMasterMaterial.M_PlantsMasterMaterial
+[2019.11.13-15.48.57:424][479]LogMaterial: Display: Missing cached shader map for material M_PlantsMasterMaterial, compiling. 
+[2019.11.13-15.48.57:584][479]LogMaterial: Display: Missing cached shader map for material M_PlantsMasterMaterial, compiling. 
+[2019.11.13-15.48.57:652][479]LogMaterial: Display: Missing cached shader map for material M_PlantsMasterMaterial, compiling. 
+[2019.11.13-15.48.57:753][479]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.11.13-15.48.57:765][479]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_7, compiling. 
+[2019.11.13-15.48.57:776][479]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_13, compiling. 
+[2019.11.13-15.48.57:787][479]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_1, compiling. 
+[2019.11.13-15.48.57:797][479]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.11.13-15.48.57:808][479]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2019.11.13-15.48.57:818][479]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.11.13-15.48.57:829][479]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2019.11.13-15.48.57:839][479]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.11.13-15.48.57:848][479]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2019.11.13-15.48.58:370][480]LogSlate: Took 0.000333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.13-15.48.58:591][487]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.11.13-15.48.59:906][523]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.11.13-15.49.00:741][543]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.11.13-15.49.01:540][562]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.11.13-15.49.03:703][603]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.11.13-15.49.05:146][637]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.11.13-15.49.05:980][656]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.11.13-15.49.07:001][683]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.11.13-15.49.07:911][708]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.11.13-15.49.09:970][785]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.11.13-15.49.10:912][824]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.11.13-15.49.12:152][868]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.11.13-15.49.13:042][901]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.13-15.49.15:015][978]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.13-15.49.15:838][  9]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.13-15.49.16:405][ 27]MaterialEditorStats: Base pass shader: 278 instructions
+[2019.11.13-15.49.16:405][ 27]MaterialEditorStats: Base pass shader with Surface Lightmap: 314 instructions
+[2019.11.13-15.49.16:405][ 27]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 368 instructions
+[2019.11.13-15.49.16:405][ 27]MaterialEditorStats: Base pass vertex shader: 423 instructions
+[2019.11.13-15.49.16:405][ 27]MaterialEditorStats: Base pass vertex shader: 502 instructions
+[2019.11.13-15.49.16:405][ 27]MaterialEditorStats: Texture samplers: 7/16
+[2019.11.13-15.49.16:405][ 27]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(4)
+[2019.11.13-15.49.16:405][ 27]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.13-15.49.19:799][208]Cmd: TRANSACTION UNDO
+[2019.11.13-15.49.19:799][208]LogEditorTransaction: Undo Reset to Default
+[2019.11.13-15.49.19:804][208]LogMaterial: Display: Missing cached shader map for material M_PlantsMasterMaterial, compiling. 
+[2019.11.13-15.49.19:808][208]LogMaterial: Warning: C:\Users\Mi_ic\OneDrive\Escritorio\ClassRepo\Content\Ejercicios\Material\MI_Dactylis_02.uasset: Failed to compile Material Instance with Base M_PlantsMasterMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.13-15.49.19:808][208]LogMaterial: 	Function MF_ColorCorrectionFlowers: (Node TextureSampleParameter2D) (ENG) Mask. For the correct work of textures of this type, it is recommended to set the "Compression Settings" parameter in the texture properties as "Mask (no sRGB)". (RUS) Маска. Для корретной работы текстур данного типа рекомендуется в свойствах текстуры установить параметр "Compression Settings" как "Mask (no sRGB)".> Requires Texture2D
+[2019.11.13-15.49.19:811][208]LogMaterial: Display: Missing cached shader map for material M_PlantsMasterMaterial, compiling. 
+[2019.11.13-15.49.19:815][208]LogMaterial: Warning: C:\Users\Mi_ic\OneDrive\Escritorio\ClassRepo\Content\Ejercicios\Material\MI_Dactylis_02.uasset: Failed to compile Material Instance with Base M_PlantsMasterMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.13-15.49.19:815][208]LogMaterial: 	Function MF_ColorCorrectionFlowers: (Node TextureSampleParameter2D) (ENG) Mask. For the correct work of textures of this type, it is recommended to set the "Compression Settings" parameter in the texture properties as "Mask (no sRGB)". (RUS) Маска. Для корретной работы текстур данного типа рекомендуется в свойствах текстуры установить параметр "Compression Settings" как "Mask (no sRGB)".> Requires Texture2D
+[2019.11.13-15.49.19:819][208]LogMaterial: Display: Missing cached shader map for material M_PlantsMasterMaterial, compiling. 
+[2019.11.13-15.49.19:823][208]LogMaterial: Warning: C:\Users\Mi_ic\OneDrive\Escritorio\ClassRepo\Content\Ejercicios\Material\MI_Dactylis_02.uasset: Failed to compile Material Instance with Base M_PlantsMasterMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.13-15.49.19:823][208]LogMaterial: 	Function MF_ColorCorrectionFlowers: (Node TextureSampleParameter2D) (ENG) Mask. For the correct work of textures of this type, it is recommended to set the "Compression Settings" parameter in the texture properties as "Mask (no sRGB)". (RUS) Маска. Для корретной работы текстур данного типа рекомендуется в свойствах текстуры установить параметр "Compression Settings" как "Mask (no sRGB)".> Requires Texture2D
+[2019.11.13-15.49.19:857][208]LogMaterial: Display: Missing cached shader map for material M_PlantsMasterMaterial, compiling. 
+[2019.11.13-15.49.20:257][213]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.11.13-15.49.21:714][259]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.11.13-15.49.22:735][294]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.11.13-15.49.23:823][341]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.11.13-15.49.25:959][427]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.11.13-15.49.26:659][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.49.27:712][493]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.11.13-15.49.28:732][527]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.11.13-15.49.30:005][575]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.11.13-15.49.30:889][609]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.11.13-15.49.31:388][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.49.32:927][687]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.11.13-15.49.33:969][727]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.13-15.49.35:063][769]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.13-15.49.35:842][797]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.13-15.49.37:696][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.49.38:602][896]MaterialEditorStats: Base pass shader: 278 instructions
+[2019.11.13-15.49.38:602][896]MaterialEditorStats: Base pass shader with Surface Lightmap: 314 instructions
+[2019.11.13-15.49.38:602][896]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 368 instructions
+[2019.11.13-15.49.38:602][896]MaterialEditorStats: Base pass vertex shader: 423 instructions
+[2019.11.13-15.49.38:602][896]MaterialEditorStats: Base pass vertex shader: 502 instructions
+[2019.11.13-15.49.38:602][896]MaterialEditorStats: Texture samplers: 7/16
+[2019.11.13-15.49.38:602][896]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(4)
+[2019.11.13-15.49.38:602][896]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.13-15.49.47:282][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.11.13-15.49.47:329][394]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.13-15.49.47:338][394]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.13-15.49.47:714][394]TextureStreamingBuild: Display: Compiling optional shaders took 0.406 seconds.
+[2019.11.13-15.49.47:759][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.11.13-15.49.48:825][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.49.48:966][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.11.13-15.49.49:000][459]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.13-15.49.49:411][459]TextureStreamingBuild: Display: Compiling optional shaders took 0.417 seconds.
+[2019.11.13-15.49.49:435][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.11.13-15.49.50:657][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.49.51:800][524]LogSlate: Window 'Message' being destroyed
+[2019.11.13-15.49.51:806][524]LogSlate: Window 'M_PlantsMasterMaterial' being destroyed
+[2019.11.13-15.49.51:808][524]LogSlate: Window 'M_PlantsMasterMaterial' being destroyed
+[2019.11.13-15.49.53:528][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.50.09:582][574]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-15.50.09:589][574]LogSlate: Window 'Content Browser' being destroyed
+[2019.11.13-15.50.13:616][814]LogSlate: Window 'Content Browser' being destroyed
+[2019.11.13-15.50.15:046][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.50.27:816][540]LogSlate: Window 'Content Browser' being destroyed
+[2019.11.13-15.50.29:304][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.50.33:674][863]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Ejercicios/Mesh/Plants/SM_Dactylis_02.SM_Dactylis_02
+[2019.11.13-15.50.39:001][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.50.54:199][950]LogSavePackage: Moving '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/SM_Dactylis_02464C114346E5C927E85A7FAAFBEF1F7C.tmp' to '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Content/Ejercicios/Mesh/Plants/SM_Dactylis_02.uasset'
+[2019.11.13-15.50.55:650][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.50.56:868][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.51.00:890][339]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Ejercicios/Material/MI_01PlantsMasterInstance_Inst.MI_01PlantsMasterInstance_Inst
+[2019.11.13-15.51.17:832][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.11.13-15.51.17:845][204]TextureStreamingBuild: Display: Compiling optional shaders took 0.013 seconds.
+[2019.11.13-15.51.17:872][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2019.11.13-15.51.17:888][204]LogSavePackage: Moving '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/MI_01PlantsMasterInstance_Inst0E0B7BBC46BD096C01046B887B2207E9.tmp' to '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Content/Ejercicios/Material/MI_01PlantsMasterInstance_Inst.uasset'
+[2019.11.13-15.51.24:995][615]LogStaticMesh: Building static mesh SM_Dactylis_02...
+[2019.11.13-15.51.25:322][615]LogStaticMesh: Built static mesh [0.34s] /Game/Ejercicios/Mesh/Plants/SM_Dactylis_02.SM_Dactylis_02
+[2019.11.13-15.51.29:595][853]LogSavePackage: Moving '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/SM_Dactylis_02FFE207BB4373FF045BA888AB5D395DB0.tmp' to '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Content/Ejercicios/Mesh/Plants/SM_Dactylis_02.uasset'
+[2019.11.13-15.51.39:082][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.51.39:879][460]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Ejercicios/Mesh/Rocks/SM_Rock_13.SM_Rock_13
+[2019.11.13-15.51.43:436][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.51.47:828][892]Cmd: SELECT NONE
+[2019.11.13-15.51.51:649][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.51.51:715][121]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.13-15.51.51:732][121]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PostProcess.PostProcess:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess' with GeneratedClass '/Game/Maps/PostProcess.PostProcess_C' with ClassGeneratedBy '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess'
+[2019.11.13-15.51.51:732][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.13-15.51.51:732][121]PIE: New page: PIE session: PostProcess (Nov 13, 2019, 5:51:51 PM)
+[2019.11.13-15.51.51:732][121]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PostProcess
+[2019.11.13-15.51.51:758][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026046s)
+[2019.11.13-15.51.51:759][121]LogAIModule: Creating AISystem for world PostProcess
+[2019.11.13-15.51.51:759][121]LogPlayLevel: PIE: World Init took: (0.001139s)
+[2019.11.13-15.51.51:760][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PostProcess.PostProcess to /Game/Maps/UEDPIE_0_PostProcess.PostProcess (0.027391s)
+[2019.11.13-15.51.51:787][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.11.13-15.51.51:800][121]LogInit: XAudio2 using 'Altavoces (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.13-15.51.51:819][121]LogInit: FAudioDevice initialized.
+[2019.11.13-15.51.51:847][121]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.13-15.51.51:851][121]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PostProcess.PostProcess up for play (max tick rate 60) at 2019.11.13-16.51.51
+[2019.11.13-15.51.51:851][121]LogWorld: Bringing up level for play took: 0.002927
+[2019.11.13-15.51.51:865][121]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PostProcess -0.049
+[2019.11.13-15.51.51:865][121]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PostProcess.PostProcess:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess' with GeneratedClass '/Game/Maps/PostProcess.PostProcess_C' with ClassGeneratedBy '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess'
+[2019.11.13-15.51.52:776][174]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PostProcess.PostProcess:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess' with GeneratedClass '/Game/Maps/PostProcess.PostProcess_C' with ClassGeneratedBy '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess'
+[2019.11.13-15.51.52:776][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-15.51.52:810][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.13-15.51.52:811][174]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PostProcess.PostProcess:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess' with GeneratedClass '/Game/Maps/PostProcess.PostProcess_C' with ClassGeneratedBy '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess'
+[2019.11.13-15.51.52:840][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-15.51.52:843][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.11.13-15.51.52:878][176]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.11.13-15.51.53:483][212]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2019.11.13-15.51.54:301][260]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.13-15.51.54:328][260]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PostProcess.PostProcess:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess' with GeneratedClass '/Game/Maps/PostProcess.PostProcess_C' with ClassGeneratedBy '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess'
+[2019.11.13-15.51.54:328][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.13-15.51.54:328][260]PIE: New page: PIE session: PostProcess (Nov 13, 2019, 5:51:54 PM)
+[2019.11.13-15.51.54:328][260]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PostProcess
+[2019.11.13-15.51.54:359][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030868s)
+[2019.11.13-15.51.54:360][260]LogAIModule: Creating AISystem for world PostProcess
+[2019.11.13-15.51.54:360][260]LogPlayLevel: PIE: World Init took: (0.000484s)
+[2019.11.13-15.51.54:360][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PostProcess.PostProcess to /Game/Maps/UEDPIE_0_PostProcess.PostProcess (0.031487s)
+[2019.11.13-15.51.54:384][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.11.13-15.51.54:398][260]LogInit: XAudio2 using 'Altavoces (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.13-15.51.54:417][260]LogInit: FAudioDevice initialized.
+[2019.11.13-15.51.54:453][260]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.13-15.51.54:456][260]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PostProcess.PostProcess up for play (max tick rate 60) at 2019.11.13-16.51.54
+[2019.11.13-15.51.54:456][260]LogWorld: Bringing up level for play took: 0.002617
+[2019.11.13-15.51.54:471][260]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PostProcess 0.557
+[2019.11.13-15.51.54:471][260]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PostProcess.PostProcess:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess' with GeneratedClass '/Game/Maps/PostProcess.PostProcess_C' with ClassGeneratedBy '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess'
+[2019.11.13-15.51.55:982][347]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PostProcess.PostProcess:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess' with GeneratedClass '/Game/Maps/PostProcess.PostProcess_C' with ClassGeneratedBy '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess'
+[2019.11.13-15.51.55:983][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-15.51.56:016][347]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.13-15.51.56:016][347]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PostProcess.PostProcess:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess' with GeneratedClass '/Game/Maps/PostProcess.PostProcess_C' with ClassGeneratedBy '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess'
+[2019.11.13-15.51.56:048][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-15.51.56:051][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.11.13-15.51.56:086][349]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.11.13-15.52.37:136][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2019.11.13-15.52.37:163][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PostProcess" FILE="../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Content/Maps/PostProcess.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.13-15.52.37:190][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2019.11.13-15.52.37:606][572]LogSavePackage: Moving '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/PostProcess6B611610446E7718E73F489F1B04FDA2.tmp' to '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Content/Maps/PostProcess.umap'
+[2019.11.13-15.52.37:643][572]LogFileHelpers: Saving map 'PostProcess' took 0.481
+[2019.11.13-15.52.37:668][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ejercicios/Material/MI_Dactylis_02" FILE="../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Content/Ejercicios/Material/MI_Dactylis_02.uasset" SILENT=true
+[2019.11.13-15.52.37:698][572]LogSavePackage: Moving '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/MI_Dactylis_025645754E4E5A02637A3B49AE5EF5DF5F.tmp' to '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Content/Ejercicios/Material/MI_Dactylis_02.uasset'
+[2019.11.13-15.52.37:750][572]LogSavePackage: Moving '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/MI_01PlantsMasterInstanceFA54053E403F59870890F7B50CB65EBE.tmp' to '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Content/Ejercicios/Material/MI_01PlantsMasterInstance.uasset'
+[2019.11.13-15.52.43:515][666]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.13-15.52.43:532][666]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PostProcess.PostProcess:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess' with GeneratedClass '/Game/Maps/PostProcess.PostProcess_C' with ClassGeneratedBy '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess'
+[2019.11.13-15.52.43:532][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.13-15.52.43:532][666]PIE: New page: PIE session: PostProcess (Nov 13, 2019, 5:52:43 PM)
+[2019.11.13-15.52.43:532][666]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PostProcess
+[2019.11.13-15.52.43:556][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023846s)
+[2019.11.13-15.52.43:556][666]LogAIModule: Creating AISystem for world PostProcess
+[2019.11.13-15.52.43:557][666]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2019.11.13-15.52.43:557][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PostProcess.PostProcess to /Game/Maps/UEDPIE_0_PostProcess.PostProcess (0.024680s)
+[2019.11.13-15.52.43:581][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.11.13-15.52.43:594][666]LogInit: XAudio2 using 'Altavoces (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.13-15.52.43:609][666]LogInit: FAudioDevice initialized.
+[2019.11.13-15.52.43:639][666]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.13-15.52.43:642][666]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PostProcess.PostProcess up for play (max tick rate 60) at 2019.11.13-16.52.43
+[2019.11.13-15.52.43:643][666]LogWorld: Bringing up level for play took: 0.002717
+[2019.11.13-15.52.43:656][666]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PostProcess -0.258
+[2019.11.13-15.52.43:656][666]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PostProcess.PostProcess:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess' with GeneratedClass '/Game/Maps/PostProcess.PostProcess_C' with ClassGeneratedBy '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess'
+[2019.11.13-15.52.45:045][748]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PostProcess.PostProcess:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess' with GeneratedClass '/Game/Maps/PostProcess.PostProcess_C' with ClassGeneratedBy '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess'
+[2019.11.13-15.52.45:046][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-15.52.45:077][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.13-15.52.45:077][748]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PostProcess.PostProcess:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess' with GeneratedClass '/Game/Maps/PostProcess.PostProcess_C' with ClassGeneratedBy '/Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess'
+[2019.11.13-15.52.45:109][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-15.52.45:112][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.11.13-15.52.45:155][750]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.11.13-15.52.46:410][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.54.14:430][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-15.54.23:383][552]Cmd: SELECT NONE
+[2019.11.13-15.54.29:390][906]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-15.54.30:099][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.11.13-15.54.30:106][947]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-15.54.30:122][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PostProcess" FILE="../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Content/Maps/PostProcess.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.13-15.54.30:148][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.11.13-15.54.30:466][947]LogSavePackage: Moving '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/PostProcessA680FB1940A463241F87C19AA75D677B.tmp' to '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Content/Maps/PostProcess.umap'
+[2019.11.13-15.54.30:496][947]LogFileHelpers: Saving map 'PostProcess' took 0.374
+[2019.11.13-15.54.32:651][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-16.04.30:469][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.11.13-16.04.30:806][247]LogSavePackage: Moving '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/PostProcess_Auto408FF9BDE434CD73BE8D40FBF5E532AC4.tmp' to '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Autosaves/Game/Maps/PostProcess_Auto4.umap'
+[2019.11.13-16.04.30:812][247]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/PostProcess' took 0.369
+[2019.11.13-16.04.30:812][247]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.369
+[2019.11.13-16.16.24:031][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-16.18.58:696][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-16.19.11:502][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-16.19.17:982][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-16.20.06:918][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.11.13-16.20.07:266][363]LogSavePackage: Moving '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/PostProcess_Auto59A9135B44413112171435486739B8CBC.tmp' to '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Autosaves/Game/Maps/PostProcess_Auto5.umap'
+[2019.11.13-16.20.07:270][363]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/PostProcess' took 0.377
+[2019.11.13-16.20.07:270][363]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.377
+[2019.11.13-16.22.02:051][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-16.22.58:289][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-16.23.21:397][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-16.30.07:619][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.11.13-16.30.07:954][ 87]LogSavePackage: Moving '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/PostProcess_Auto6FE05F13F4E9A87F44C2FAAA441F75576.tmp' to '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Autosaves/Game/Maps/PostProcess_Auto6.umap'
+[2019.11.13-16.30.07:958][ 87]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/PostProcess' took 0.363
+[2019.11.13-16.30.07:958][ 87]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.363
+[2019.11.13-19.46.40:649][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:649][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:649][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:649][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:649][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:649][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:649][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:649][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:649][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:649][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:649][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:649][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:649][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:649][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:649][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:649][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:650][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:651][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:652][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:653][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:654][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:655][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:655][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:655][ 46]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-19.46.40:992][ 48]LogHttp: Warning: 00000185BDDA7C40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.13-19.46.40:992][ 48]LogHttp: Warning: 00000185BDDA7C40: libcurl info message cache 0 (Connection 32 seems to be dead!)
+[2019.11.13-19.46.40:992][ 48]LogHttp: Warning: 00000185BDDA7C40: libcurl info message cache 1 (Closing connection 32)
+[2019.11.13-19.46.40:992][ 48]LogHttp: Warning: 00000185BDDA7C40: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.11.13-19.46.40:992][ 48]LogHttp: Warning: 00000185BDDA7C40: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.13-19.46.40:992][ 48]LogHttp: Warning: 00000185BDDA7C40: libcurl info message cache 4 (Closing connection 33)
+[2019.11.13-19.46.40:992][ 48]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55913F62-4B54-50B6-9464-0283E25F0F86%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=9be190b74eba7bcaee0ff49a2ad51712%7Cd5417df21912407a9a8cbf9e55c3dd89%7Cb91ab6ab-51ca-44dd-9dc7-f0080b25749f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.13-19.46.41:983][ 50]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.334 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:054][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:054][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:054][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:054][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:054][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:054][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:054][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:054][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:058][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:061][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:061][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:061][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:061][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:061][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:061][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:061][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:061][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:061][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:061][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:061][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:061][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:061][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:061][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:061][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:061][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:061][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:062][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:063][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.03.15:246][ 60]LogHttp: Warning: 00000185C70A4680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.13-22.03.15:246][ 60]LogHttp: Warning: 00000185C70A4680: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.13-22.03.15:246][ 60]LogHttp: Warning: 00000185C70A4680: libcurl info message cache 1 (Closing connection 34)
+[2019.11.13-22.03.15:246][ 60]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55913F62-4B54-50B6-9464-0283E25F0F86%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=9be190b74eba7bcaee0ff49a2ad51712%7Cd5417df21912407a9a8cbf9e55c3dd89%7Cb91ab6ab-51ca-44dd-9dc7-f0080b25749f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.13-22.03.30:268][104]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (15.214 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.13-22.34.23:714][647]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-22.34.27:006][816]Cmd: SELECT NONE
+[2019.11.13-22.34.27:989][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-22.34.39:043][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-22.34.47:788][  2]LogActorFactory: Actor Factory created Cone
+[2019.11.13-22.34.48:434][ 40]LogActorFactory: Actor Factory created Cone
+[2019.11.13-22.34.50:531][159]Cmd: SELECT NONE
+[2019.11.13-22.34.51:473][214]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-22.34.52:164][242]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-22.34.52:171][242]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess
+[2019.11.13-22.34.52:853][242]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0050 seconds. Added 121 classes and 0 folders.
+[2019.11.13-22.34.57:652][435]BlueprintLog: New page: Compile PostProcess
+[2019.11.13-22.34.57:861][435]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.11.13-22.34.59:740][507]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.11.13-22.35.00:181][529]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (Trigger Llave)
+[2019.11.13-22.35.02:070][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-22.35.22:356][770]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.11.13-22.35.22:773][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2019.11.13-22.35.23:860][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-22.35.57:573][551]LogSlate: Took 0.008663 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.11.13-22.36.31:914][549]BlueprintLog: New page: Compile PostProcess
+[2019.11.13-22.36.32:067][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.11.13-22.36.32:378][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PostProcess" FILE="../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Content/Maps/PostProcess.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.13-22.36.32:412][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.11.13-22.36.32:844][565]LogSavePackage: Moving '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/PostProcess6C89A8B547F70C382741CF8201FEEB7B.tmp' to '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Content/Maps/PostProcess.umap'
+[2019.11.13-22.36.32:912][565]LogFileHelpers: Saving map 'PostProcess' took 0.535
+[2019.11.13-22.36.33:265][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-22.36.34:392][639]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-22.36.36:492][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-22.36.43:014][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-22.37.02:252][207]LogActorFactory: Actor Factory created Floor_400x400
+[2019.11.13-22.37.02:835][240]LogActorFactory: Actor Factory created Floor_400x400
+[2019.11.13-22.37.05:109][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-22.37.08:925][583]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (Trigger Puerta)
+[2019.11.13-22.37.09:860][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-22.37.25:753][535]BlueprintLog: New page: Compile PostProcess
+[2019.11.13-22.37.25:904][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.11.13-22.37.44:002][573]BlueprintLog: New page: Compile PostProcess
+[2019.11.13-22.37.44:161][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.11.13-22.37.44:423][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PostProcess" FILE="../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Content/Maps/PostProcess.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.13-22.37.44:455][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.11.13-22.37.44:906][586]LogSavePackage: Moving '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/PostProcess283F9D9542647CFD6953FBB9A2E35B9B.tmp' to '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Content/Maps/PostProcess.umap'
+[2019.11.13-22.37.44:940][586]LogFileHelpers: Saving map 'PostProcess' took 0.517
+[2019.11.13-22.37.45:319][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-22.47.30:020][858]BlueprintLog: New page: Compile PostProcess
+[2019.11.13-22.47.30:167][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.11.13-22.47.30:742][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PostProcess" FILE="../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Content/Maps/PostProcess.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.13-22.47.30:783][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.11.13-22.47.31:173][885]LogSavePackage: Moving '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/PostProcess528945AD4DE859CC0DED00BDAE6243B0.tmp' to '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Content/Maps/PostProcess.umap'
+[2019.11.13-22.47.31:201][885]LogFileHelpers: Saving map 'PostProcess' took 0.459
+[2019.11.13-22.47.31:559][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-22.47.31:646][910]LogSlate: Window 'PostProcess' being destroyed
+[2019.11.13-22.47.31:656][910]LogSlate: Window 'PostProcess' being destroyed
+[2019.11.13-22.47.44:773][988]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2019.11.13-22.47.44:842][988]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-22.47.45:861][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-22.47.46:749][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-22.47.46:753][ 95]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/PostProcess.PostProcess:PersistentLevel.PostProcess
+[2019.11.13-22.47.56:345][494]LogSlate: Window 'Delete Variable' being destroyed
+[2019.11.13-22.47.57:000][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-22.47.57:060][536]BlueprintLog: New page: Compile PostProcess
+[2019.11.13-22.47.57:245][536]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.11.13-22.47.57:602][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PostProcess" FILE="../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Content/Maps/PostProcess.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.13-22.47.57:648][554]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2019.11.13-22.47.58:131][554]LogSavePackage: Moving '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/PostProcessAAFFC9744B6D9338ECA1E1A73A50CAB3.tmp' to '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Content/Maps/PostProcess.umap'
+[2019.11.13-22.47.58:163][554]LogFileHelpers: Saving map 'PostProcess' took 0.561
+[2019.11.13-22.48.05:635][994]BlueprintLog: New page: Compile PostProcess
+[2019.11.13-22.48.05:781][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.11.13-22.48.06:306][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PostProcess" FILE="../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Content/Maps/PostProcess.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.13-22.48.06:345][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.11.13-22.48.06:886][ 23]LogSavePackage: Moving '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/PostProcessB5EE187C48D9B2C634C6659F47EF8A0F.tmp' to '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Content/Maps/PostProcess.umap'
+[2019.11.13-22.48.06:916][ 23]LogFileHelpers: Saving map 'PostProcess' took 0.611
+[2019.11.13-22.48.07:733][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-22.48.07:812][ 76]LogSlate: Window 'PostProcess' being destroyed
+[2019.11.13-22.48.07:820][ 76]LogSlate: Window 'PostProcess' being destroyed
+[2019.11.13-22.48.09:385][168]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.11.13-22.48.10:121][211]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (Trigger Puerta)
+[2019.11.13-22.48.11:183][270]Cmd: DELETE
+[2019.11.13-22.48.11:183][270]Cmd: ACTOR DELETE
+[2019.11.13-22.48.11:189][270]LogEditorActor: Deleted Actor: TriggerBox
+[2019.11.13-22.48.11:220][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.11.13-22.48.11:220][270]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2019.11.13-22.48.11:726][300]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (Trigger Llave)
+[2019.11.13-22.48.12:250][326]Cmd: DELETE
+[2019.11.13-22.48.12:250][326]Cmd: ACTOR DELETE
+[2019.11.13-22.48.12:252][326]LogEditorActor: Deleted Actor: TriggerBox
+[2019.11.13-22.48.12:279][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.11.13-22.48.12:280][326]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.11.13-22.48.13:069][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2019.11.13-22.48.13:378][390]Cmd: DELETE
+[2019.11.13-22.48.13:378][390]Cmd: ACTOR DELETE
+[2019.11.13-22.48.13:381][390]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.13-22.48.13:411][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.11.13-22.48.13:411][390]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2019.11.13-22.48.14:974][482]Cmd: SELECT NONE
+[2019.11.13-22.48.22:900][950]Cmd: SELECT NONE
+[2019.11.13-22.48.30:880][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-22.58.06:478][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.11.13-22.58.06:862][844]LogSavePackage: Moving '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/PostProcess_Auto7D8A7AFF044EA3A18E52D159FC7EF7D51.tmp' to '../../../../../../Users/Mi_ic/OneDrive/Escritorio/ClassRepo/Saved/Autosaves/Game/Maps/PostProcess_Auto7.umap'
+[2019.11.13-22.58.06:866][844]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/PostProcess' took 0.418
+[2019.11.13-22.58.06:866][844]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.418
+[2019.11.14-00.17.32:221][178]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.14-00.17.32:221][178]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.14-00.17.32:221][178]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.14-00.17.32:222][178]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.14-00.17.32:222][178]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.14-00.17.37:650][195]LogHttp: Warning: 00000185CD412200: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.11.14-00.17.37:651][195]LogHttp: Warning: 00000185CD412200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x18534283f70 [can pipeline])
+[2019.11.14-00.17.37:651][195]LogHttp: Warning: 00000185CD412200: libcurl info message cache 1 (Re-using existing connection! (#78) with host datarouter.ol.epicgames.com)
+[2019.11.14-00.17.37:651][195]LogHttp: Warning: 00000185CD412200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.5.92.97) port 443 (#78))
+[2019.11.14-00.17.37:651][195]LogHttp: Warning: 00000185CD412200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.11.14-00.17.37:651][195]LogHttp: Warning: 00000185CD412200: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.11.14-00.17.37:651][195]LogHttp: Warning: 00000185CD412200: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.11.14-00.17.37:651][195]LogHttp: Warning: 00000185CD412200: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.11.14-00.17.37:651][195]LogHttp: Warning: 00000185CD412200: libcurl info message cache 7 (Closing connection 78)
+[2019.11.14-00.17.37:985][196]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55913F62-4B54-50B6-9464-0283E25F0F86%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=9be190b74eba7bcaee0ff49a2ad51712%7Cd5417df21912407a9a8cbf9e55c3dd89%7Cb91ab6ab-51ca-44dd-9dc7-f0080b25749f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.14-00.21.25:987][876]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
